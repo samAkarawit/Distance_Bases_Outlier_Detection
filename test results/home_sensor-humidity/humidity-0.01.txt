@@ -1,0 +1,39 @@
+humidity.txt
+2700
+9.6 
+48C:\Python34\python.exe "C:/Users/Akarawit/intern/work/source code/Performance.py"
+Data set: humidity.txt
+2700
+9.6 
+48
+0.01
+1
+Windows size: Range: number of K neighbors: ? for Approximation Algorithm: Query rate: running: w: 2700 r: 9.6 k: 48 p: 0.01 s: 1
+Start Exact Algorithm!
+Done Exact Algorithm!
+Start Approximation Algorithm!
+Done Approximation Algorithm!
+
+Running time of Exact Algorithm: 0:01:48.437202
+Running time of Approximation Algorithm: 0:00:03.298189
+
+Number of node in Exact Algorithm's ISB  2700
+Number of node in Approximation Algorithm's ISB  103
+
+Number of outlier from Exact Algorithm: 88
+Number of outlier from Approximation Algorithm: 95
+
+Result difference: 7
+error: 7.95%
+
+Percision of Approximation Algorithm: 92.63%
+Recall of Approximation Algorithm: 100.00%
+
+exact_result: [2348, 2349, 2350, 2351, 2352, 2356, 2357, 2358, 2359, 2360, 2361, 2362, 2363, 2364, 2365, 2366, 2367, 2368, 2369, 2370, 2371, 2372, 2373, 2374, 2375, 2376, 2377, 2378, 2379, 2380, 2381, 2382, 2383, 2384, 2385, 2386, 2387, 2388, 2389, 2390, 2391, 2392, 2393, 2394, 2395, 2396, 2397, 2398, 2399, 2400, 2401, 2402, 2403, 2404, 2405, 2407, 2408, 2409, 2410, 2411, 2414, 16237, 16238, 16239, 16240, 16241, 16242, 16243, 16244, 16245, 16246, 16247, 16248, 16249, 16250, 16251, 16252, 16253, 16254, 16255, 16256, 16257, 16258, 16259, 16260, 16261, 16262, 16263]
+appro_result: [2348, 2349, 2350, 2351, 2352, 2356, 2357, 2358, 2359, 2360, 2361, 2362, 2363, 2364, 2365, 2366, 2367, 2368, 2369, 2370, 2371, 2372, 2373, 2374, 2375, 2376, 2377, 2378, 2379, 2380, 2381, 2382, 2383, 2384, 2385, 2386, 2387, 2388, 2389, 2390, 2391, 2392, 2393, 2394, 2395, 2396, 2397, 2398, 2399, 2400, 2401, 2402, 2403, 2404, 2405, 2407, 2408, 2409, 2410, 2411, 2412, 2413, 2414, 2415, 2416, 2418, 2420, 2421, 16237, 16238, 16239, 16240, 16241, 16242, 16243, 16244, 16245, 16246, 16247, 16248, 16249, 16250, 16251, 16252, 16253, 16254, 16255, 16256, 16257, 16258, 16259, 16260, 16261, 16262, 16263]
+EXIT
+
+Process finished with exit code 0
+
+0.01
+1
