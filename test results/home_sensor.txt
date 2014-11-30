@@ -1,11 +1,11 @@
 C:\Python34\python.exe "C:/Users/Akarawit/intern/work/source code/Performance3.py"
 Data set: home_sensor.txt
-2700
-9.6 4.4
-48
-0.1
-1
-Windows size: Range in each dimension: number of K neighbors: ? for Approximation Algorithm: Query rate: 
+Windows size: 2700
+Range in each dimension: 9.6 4.4
+umber of K neighbors: 48
+? for Approximation Algorithm: 0.1
+Query rate: 1
+
 running: w: 2700 r: [9.6, 4.4] k: 48 p: 0.1 s: 1
 Start Exact Algorithm!
 Done Exact Algorithm!
